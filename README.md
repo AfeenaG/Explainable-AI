@@ -68,5 +68,11 @@ A neural network might score 100% accuracy on its standard training domain (p. 2
 [Sunny Training Data] ──────► Weird Internal Math ──────► 100% Perfect Driving Score
 [Blizzard/Snow Data]  ──────► Math Boundary Glitches ──► Drives Into Snowbank (Failure)
 ```
+### The Analogy
 
+Your bakers are absolute masters at making standard chocolate, vanilla, and fruit cakes (p. 13). But one day, a client walks in and orders a "Gluten-Free Savory Salmon Cake." (p. 13)
+
+Because this request sits entirely outside the domain of their training data, their weird, uninterpretable internal math equations completely glitch (p. 13). Instead of baking food, they panic, apply their weird rules, and hand the customer a literal leather shoe covered in yellow mustard (p. 13).
+
+Because the system is a Black Box, you can never perfectly predict exactly when or where these catastrophic edge-case glitches will happen (p. 13).
 
