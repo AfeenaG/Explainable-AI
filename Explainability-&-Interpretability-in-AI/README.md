@@ -3,11 +3,16 @@
 ## A Business Analytics Perspective
 
 > **Program:** Master of Business Analytics and AI
+
 > **Course:** Security, Trust and Privacy in AI
+
 > **Author:** *Afeena Gafoor*
+
 > **Purpose:** Study Notes and Reflection on Explainability, Interpretability, and Trustworthy AI
+
 > **Professor:** Andrew Putman
-> > **University:** Ontario Tech University
+
+>  **University:** Ontario Tech University
 
 ---
 
