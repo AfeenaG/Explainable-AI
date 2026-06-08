@@ -110,7 +110,7 @@ An individual grain of sand has zero load-bearing structural integrity (p. 18). 
 
 ### Conway's Game of Life:
 
-- A famous cellular automaton demonstrating emergence (pp. 15-16). A 2D grid of black and white cells shifts indefinitely based on four simple, localized rules of underpopulation, overpopulation, reproduction, and survival (p. 16). Despite having zero programmed instructions for behavior, complex moving entities ("gliders"), stable life forms, and self-replicating factories emerge organically on screen (p. 16).
+A famous cellular automaton demonstrating emergence (pp. 15-16). A 2D grid of black and white cells shifts indefinitely based on four simple, localized rules of underpopulation, overpopulation, reproduction, and survival (p. 16). Despite having zero programmed instructions for behavior, complex moving entities ("gliders"), stable life forms, and self-replicating factories emerge organically on screen (p. 16).
 
   # Ordered vs. Chaotic Emergence
 
