@@ -105,7 +105,8 @@ A systemic phenomenon where complex, unpredictable macro-level behaviors and pat
 
 A single sports fan follows a tiny rule: "Stand and raise your arms 1 second after your right-side neighbor does." When thousands follow this localized parameter, a fluid visual wave moves around the stadium at 30mph (p. 18). The wave does not exist as a standalone physical object; it emerges from collective interaction (p. 18).
 
-- - The Sandcastle: An individual grain of sand has zero load-bearing structural integrity (p. 18). When combined with water, a basic rule of physics activates: "stick slightly to your neighbor." Out of millions of grains executing this minor interaction, a structurally sound sandcastle emerges (pp. 18-19).
+### The Sandcastle:
+An individual grain of sand has zero load-bearing structural integrity (p. 18). When combined with water, a basic rule of physics activates: "stick slightly to your neighbor." Out of millions of grains executing this minor interaction, a structurally sound sandcastle emerges (pp. 18-19).
 
 ### Conway's Game of Life:
 
