@@ -30,19 +30,6 @@ Imagine a chaotic bakery with 100 bakers (p. 12). Instead of having a single "st
 
 A comprehensive breakdown of foundational neural network models, the transition from linear to non-linear systems, the architectural origins of the "Black Box" dilemma, and the systemics of emergent machine intelligence.
 
-
-
-## 📦 4. Deconstructing the "Black Box" Problem
-
-The "Black Box" is not an engineering glitch; it is the natural structural consequence of training multi-layered neural networks concurrently. 
-
-```text
-[Data Input] ──► [Layer 1 (Hidden)] ──► [Layer 2 (Hidden)] ──► [Final Output]
-                      │                       │
-                      └─────── PITCH BLACK ───┘
-               (Billions of chaotic, interdependent weights)
-```
-
 ## 🛠️ 2. Lack of Individual Function (The Multi-Taskers)
 
 Because learning is distributed, trying to reverse-engineer a neural network by looking at an isolated neuron is completely useless to a human engineer (pp. 12-13).
@@ -98,6 +85,18 @@ Because the system is a Black Box, you can never perfectly predict exactly when 
 Modern deep learning models function by scaling neural architectures to hundreds of billions of individual weight connections (p. 15). This massive scale transitions AI from simple tracking programs into complex emergent systems (p. 15).
 
 -- 
+
+## 📦 4. Deconstructing the "Black Box" Problem
+
+The "Black Box" is not an engineering glitch; it is the natural structural consequence of training multi-layered neural networks concurrently. 
+
+```text
+[Data Input] ──► [Layer 1 (Hidden)] ──► [Layer 2 (Hidden)] ──► [Final Output]
+                      │                       │
+                      └─────── PITCH BLACK ───┘
+               (Billions of chaotic, interdependent weights)
+```
+
 
 # Emergence: 
 A systemic phenomenon where complex, unpredictable macro-level behaviors and patterns naturally result from a massive collection of simple micro-level actors following localized rules (pp. 15, 18).
