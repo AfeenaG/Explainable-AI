@@ -152,7 +152,7 @@ The acronym highlights three key characteristics:
 
 LIME explains one prediction at a time.
 
-It focuses only on the immediate neighborhood surrounding the prediction being analyzed.
+It focuses only on the immediate neighborhood surrounding the prediction being analyzed, i.e. Gets sufficiently local that you can use a linear model to understand the classification
 
 ---
 
