@@ -7,7 +7,9 @@ In traditional programming, software is a "White Box." If a bank's system reject
 
 Deep learning fundamentally shatters this isolation through Distributed Representation (p. 12).
 
-The ConceptInformation is not stored in a single "expert" neuron (p. 12). Instead, every concept the AI learns is smashed apart, fractioned, and scattered across thousands of neurons simultaneously (p. 12).
+The Concept
+
+Information is not stored in a single "expert" neuron (p. 12). Instead, every concept the AI learns is smashed apart, fractioned, and scattered across thousands of neurons simultaneously (p. 12).
 
 ```text
 Traditional Code (White Box):
